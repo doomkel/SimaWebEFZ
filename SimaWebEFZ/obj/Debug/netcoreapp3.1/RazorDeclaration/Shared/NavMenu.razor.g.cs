@@ -83,7 +83,7 @@ using SimaWebEFZ.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Administrador\source\repos\SimaWebEFZ\SimaWebEFZ\Shared\NavMenu.razor"
+#line 48 "C:\Users\Administrador\source\repos\SimaWebEFZ\SimaWebEFZ\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
