@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlEhbEXxXrnJewQCiLxkNubTBJ1Wf0YCStuw0iGIRRum9aQYX3Oa+aFAHw+REFSr+OAG9+KvA6eXajVQ3ZoHNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

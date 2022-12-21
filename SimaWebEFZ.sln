@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimaWebEFZ", "SimaWebEFZ\SimaWebEFZ.csproj", "{FFAF4EA3-F36B-403D-B736-AA9A8E6A078C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{B509E24A-B12A-4133-BCAF-987A43CE93D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFAF4EA3-F36B-403D-B736-AA9A8E6A078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAF4EA3-F36B-403D-B736-AA9A8E6A078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAF4EA3-F36B-403D-B736-AA9A8E6A078C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B509E24A-B12A-4133-BCAF-987A43CE93D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B509E24A-B12A-4133-BCAF-987A43CE93D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B509E24A-B12A-4133-BCAF-987A43CE93D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B509E24A-B12A-4133-BCAF-987A43CE93D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

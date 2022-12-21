@@ -75,6 +75,7 @@ using SimaWebEFZ.Shared;
 #line default
 #line hidden
 #nullable disable
+    [global::Microsoft.AspNetCore.Components.RouteAttribute("/inventarios")]
     public partial class Inventarios : global::Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
