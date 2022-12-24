@@ -6,14 +6,14 @@ namespace DataAccessLibrary.Models
 {
     public class EntradasModel
     {
-        public DateTime Fecha { get; set; }
-        public int Folio { get; set; }
-        public int Recibe { get; set; }
-        public string NombreRecibe { get; set; }
-        public string Factura { get; set; }
-        public int Sku { get; set; }
-        public string CodigoComponente { get; set; }
-        public string DescripComponente { get; set; }
-        public int Piezas { get; set; }
+        public DateTime fecha { get; set; }
+        public int folio { get; set; }
+        public int recibe { get; set; }
+        public string alm_recibe { get; set; }
+        public string factura { get; set; }
+        public int sku { get; set; }
+        public string cod_componente { get; set; }
+        public string des_componente { get; set; }
+        public float pzas { get; set; }
     }
 }

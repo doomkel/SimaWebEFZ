@@ -17,7 +17,7 @@ namespace DataAccessLibrary
 
         public Task<List<EntradasModel>> GetEntradas()
         {
-            string sql = "select * from Entradas";
+            string sql = "select * from vwEntradas where fecha > '2022-12-01'";
 
             return _db.LoadData<EntradasModel, dynamic>(sql, new { });
         }

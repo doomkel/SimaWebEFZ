@@ -13,6 +13,21 @@
 }
 else
 {
+    <div class="form-group row">
+        <label for="Inicial" class="col-sm2 col-form-label">
+            Fecha Inicial
+        </label>
+        <div class="col-sm4">
+            <input type="date" class="form-control valid" value="2022-12-01" />
+        </div>
+        <label for="Final" class="col-sm2 col-form-label">
+            Fecha Final
+        </label>
+        <div class="col-sm4">
+            <input type="date" class="form-control valid" value="2022-12-01" />
+        </div>
+    </div>
+
     <table class="table table-dark">
          <thead>
              <tr>
@@ -31,7 +46,15 @@ else
              @foreach (var item in entradas)
             {
                 <tr>
-                    <td>@item.Fecha</td>
+                    <td>@item.fecha.ToShortDateString()</td>
+                    <td>@item.folio</td>
+                    <td>@item.recibe</td>
+                    <td>@item.alm_recibe</td>
+                    <td>@item.factura</td>
+                    <td>@item.sku</td>
+                    <td>@item.cod_componente</td>
+                    <td>@item.des_componente</td>
+                    <td>@item.pzas</td>
                 </tr>
             }
          </tbody>

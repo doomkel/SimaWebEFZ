@@ -1,0 +1,10 @@
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.deps.json
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.dll
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.pdb
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.dll
+C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.pdb

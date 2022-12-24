@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SimaWebEFZ",
-    "\\SimaWebEFZ\\Pages",
-    "\\SimaWebEFZ\\Shared"
+    "\\DataAccessLibrary",
+    "\\DataAccessLibrary\\Models",
+    "\\SimaWebEFZ"
   ],
-  "SelectedNode": "\\SimaWebEFZ\\Shared\\NavMenu.razor",
+  "SelectedNode": "\\DataAccessLibrary\\Models\\EntradasModel.cs",
   "PreviewInSolutionExplorer": false
 }
