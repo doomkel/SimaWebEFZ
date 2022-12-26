@@ -3,8 +3,9 @@
     "",
     "\\DataAccessLibrary",
     "\\DataAccessLibrary\\Models",
-    "\\SimaWebEFZ"
+    "\\SimaWebEFZ",
+    "\\SimaWebEFZ\\Pages"
   ],
-  "SelectedNode": "\\DataAccessLibrary\\Models\\EntradasModel.cs",
+  "SelectedNode": "\\SimaWebEFZ.sln",
   "PreviewInSolutionExplorer": false
 }

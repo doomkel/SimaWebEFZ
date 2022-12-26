@@ -98,14 +98,20 @@ using DataAccessLibrary.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 64 "C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\SimaWebEFZ\Pages\Entradas.razor"
+#line 83 "C:\Users\dan\Source\Repos\doomkel\SimaWebEFZ\SimaWebEFZ\Pages\Entradas.razor"
        
     private List<EntradasModel> entradas;
 
+    private DateTime fecFinal = DateTime.Today;
+
     protected override async Task OnInitializedAsync()
-    {
+    {        
         entradas = await _db.GetEntradas();
     }
+
+    
+    
+
 
 #line default
 #line hidden

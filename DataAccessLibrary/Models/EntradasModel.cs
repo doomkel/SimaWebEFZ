@@ -10,10 +10,13 @@ namespace DataAccessLibrary.Models
         public int folio { get; set; }
         public int recibe { get; set; }
         public string alm_recibe { get; set; }
+        public string proveedor { get; set; }
         public string factura { get; set; }
         public int sku { get; set; }
         public string cod_componente { get; set; }
         public string des_componente { get; set; }
         public float pzas { get; set; }
+        public float costo_fac { get; set; }
+        public float costo_pesos { get; set; }
     }
 }

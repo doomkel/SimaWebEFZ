@@ -98,7 +98,7 @@ using DataAccessLibrary.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 49 "C:\Users\dan\source\repos\doomkel\SimaWebEFZ\SimaWebEFZ\Pages\Entradas.razor"
+#line 67 "C:\Users\dan\source\repos\doomkel\SimaWebEFZ\SimaWebEFZ\Pages\Entradas.razor"
        
     private List<EntradasModel> entradas;
 
