@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectPath": "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\obj\\",
+        "outputPath": "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

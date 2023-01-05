@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WuRmCytEAedpSVEw6rRzSa/U3OGak3yoR7AG1xEbQj+6K4q4wUQ8P/RYjtPXubQNiqFyIYDgbZ4QUOI8HRFZsA==",
+  "dgSpecHash": "6by2+vC1x35om1rIno1ig1Q7l2LA/sZPuVbQBsWZmbYowbB2TJAPBbvzExatGDdMQ/5qZcgyDnzLuJ0oy/jRJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
+  "projectFilePath": "C:\\Users\\dan\\source\\repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.aspnetcore.authentication.azuread.ui\\3.1.27\\microsoft.aspnetcore.authentication.azuread.ui.3.1.27.nupkg.sha512",
