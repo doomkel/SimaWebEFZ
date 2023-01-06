@@ -19,7 +19,7 @@ namespace DataAccessLibrary
         {
             string sql = "select * from vwEntradas where fecha > '2022-12-01'";
 
-            return _db.LoadData<EntradasModel, dynamic>(sql, new { });
+            return _db.LoadData<EntradasModel, object>(sql, new { });
         }
     }
 }

@@ -18,8 +18,8 @@ namespace DataAccessLibrary.Tests
             Mock<ISqlDataAccess> connection = new Mock<ISqlDataAccess>();
             var expected = new List<EntradasModel>{
 
-                new EntradasModel { Folio = 1, NombreRecibe = "Test1" },
-                new EntradasModel { Folio = 2, NombreRecibe = "Test2" }
+                new EntradasModel { folio = 1, alm_recibe = "Test1" },
+                new EntradasModel { folio = 2, alm_recibe = "Test2" }
 
             };
             connection.Setup(x => x.LoadData<EntradasModel, object>
