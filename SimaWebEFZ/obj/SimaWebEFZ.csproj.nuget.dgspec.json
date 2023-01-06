@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj": {}
+    "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
-        "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CCp32RZMFzy3wQjq4z3PwfY7paMJxlViOIJCgoFFOKA5DISpSi/api": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -78,20 +79,20 @@
         }
       }
     },
-    "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj": {
+    "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
         "projectName": "SimaWebEFZ",
-        "projectPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
-        "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\SimaWebEFZ\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\SimaWebEFZ\\SimaWebEFZ.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\SimaWebEFZ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,14 +102,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CCp32RZMFzy3wQjq4z3PwfY7paMJxlViOIJCgoFFOKA5DISpSi/api": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
-                "projectPath": "C:\\Users\\dan\\Source\\Repos\\doomkel\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj"
+              "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SimaWebEFZ\\DataAccessLibrary\\DataAccessLibrary.csproj"
               }
             }
           }
